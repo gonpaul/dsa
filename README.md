@@ -1,6 +1,7 @@
 ## Data structures and algorithms
 
 **Implemented from scratch**
+
 **Assertion tests**
 
 ## Algorithms
