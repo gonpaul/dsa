@@ -6,6 +6,6 @@
 
 ## Algorithms
 ### Sorting
-1. [Bubble sort]('./sorting/bubble.js')
-2. [Insertion sort]('./sorting/insertion.js')
-3. [Selection sort](./sorting/selection.js)
+1. [Bubble sort](/sorting/bubble.js)
+2. [Insertion sort](/sorting/insertion.js)
+3. [Selection sort](/sorting/selection.js)
